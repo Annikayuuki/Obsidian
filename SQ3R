@@ -1,0 +1,33 @@
+/* Style for Survey headings */
+.sq3r-survey h1 {
+  color: purple;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/* Style for Question bullet points */
+.sq3r-question li {
+  color: green;
+  font-style: italic;
+}
+
+/* Style for Read headings */
+.sq3r-read h2 {
+  color: blue;
+  font-size: 1.5em;
+  text-decoration: underline;
+}
+
+/* Style for Recite notes */
+.sq3r-recite {
+  background-color: lightyellow;
+  border: 1px solid orange;
+  padding: 0.5em;
+}
+
+/* Style for Review headings */
+.sq3r-review h3 {
+  color: red;
+  font-size: 1.2em;
+  font-style: oblique;
+}
